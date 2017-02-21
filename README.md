@@ -12,7 +12,11 @@ Find it use full can take it.
 $ npm install
 ```
 # Run
-Run npm start at the source directory
+Run 
+```
+$ npm start
+```
+at the source directory
 
 ## look for
 http://localhost:3000
